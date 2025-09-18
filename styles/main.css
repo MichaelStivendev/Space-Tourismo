@@ -9,7 +9,7 @@
 }
 
 body {
-  background-image: url("./assets/home/background-home-mobile.jpg");
+  background-image: url("../assets/home/background-home-mobile.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   overflow-x: hidden;
@@ -464,7 +464,7 @@ body {
 }
 @media (min-width: 1000px) {
   body {
-    background-image: url("./assets/home/background-home-desktop.jpg");
+    background-image: url("../assets/home/background-home-desktop.jpg");
   }
   .bg-destination {
     background-image: url("./assets/destination/background-destination-desktop.jpg");
