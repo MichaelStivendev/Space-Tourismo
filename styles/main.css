@@ -9,7 +9,7 @@
 }
 
 body {
-  background-image: url("/images/Hi\ Res\ Render-mobile.png");
+  background-image: url("./assets/home/background-home-mobile.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   overflow-x: hidden;
@@ -17,13 +17,13 @@ body {
   padding: 2rem;
 }
 .bg-destination {
-  background-image: url("/assets/destination/background-destination-mobile.jpg");
+  background-image: url("./assets/destination/background-destination-mobile.jpg");
 }
 .bg-crew {
-  background-image: url("/assets/crew/background-crew-mobile.jpg");
+  background-image: url("./assets/crew/background-crew-mobile.jpg");
 }
 .bg-technology {
-  background-image: url("/assets/technology/background-technology-mobile.jpg");
+  background-image: url("./assets/technology/background-technology-mobile.jpg");
   background-position: right bottom;
 }
 #menu-container {
@@ -355,10 +355,10 @@ body {
     }
   }
   .bg-destination {
-    background-image: url("/assets/destination/background-destination-tablet.jpg");
+    background-image: url("./assets/destination/background-destination-tablet.jpg");
   }
   .bg-technology {
-    background-image: url("/assets/technology/background-technology-tablet.jpg");
+    background-image: url("./assets/technology/background-technology-tablet.jpg");
   }
   body {
     padding-top: 0;
@@ -447,7 +447,7 @@ body {
     margin-top: 0;
   }
   .bg-crew {
-    background-image: url("/assets/crew/background-crew-tablet.jpg");
+    background-image: url("./assets/crew/background-crew-tablet.jpg");
   }
   #h2-techno {
     font-size: 2.5rem;
@@ -464,10 +464,10 @@ body {
 }
 @media (min-width: 1000px) {
   body {
-    background-image: url("/assets/home/background-home-desktop.jpg");
+    background-image: url("./assets/home/background-home-desktop.jpg");
   }
   .bg-destination {
-    background-image: url("/assets/destination/background-destination-desktop.jpg");
+    background-image: url("./assets/destination/background-destination-desktop.jpg");
   }
   #menu-container {
     margin-top: 2rem;
@@ -486,7 +486,7 @@ body {
     }
   }
   .bg-crew {
-    background-image: url("/assets/crew/background-crew-desktop.jpg");
+    background-image: url("./assets/crew/background-crew-desktop.jpg");
   }
   .header-pages {
     margin: 2rem 0;
